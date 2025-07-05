@@ -1,1 +1,1 @@
-web: uvicorn inference_server:app --host=0.0.0.0 
+web: uvicorn inference_server:app --host=0.0.0.0 --port $PORT
