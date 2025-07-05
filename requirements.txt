@@ -3,6 +3,7 @@ uvicorn[standard]
 requests
 python-multipart
 python-dotenv
+opencv-python-headless==4.8.0.74
 roboflow
 pillow
 inference-sdk
